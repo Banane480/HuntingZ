@@ -1,6 +1,6 @@
 {
   "name": "launcher-huntingZ",
-  "version": "1.9.0",
+  "version": "1.0.0",
   "productName": "Launcher HuntingZ",
   "description": "DayZ Minecraft Server",
   "author": "https://huntingz.fr/",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Banane480/HuntingZ.git"
   }
 }
